@@ -1,5 +1,10 @@
-## Hi there 👋
-
+👋 Hey there, I'm Sakshi
+💻 Passionate about Dev, AI, problem-solving, building tools and Entrepreneurship
+🌱 I’m currently learning Web Development and Python
+✨ Always eploring new technologies 🚀
+❤️ To play 🏸 and capture moments! 📸
+^_^ Eager to connect and vibe with like-minded people for collabs, projects, or anything
+📫 How to reach me: mutthasakshi578@gmail.com
 <!--
 **sakshimuttha578/sakshimuttha578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
