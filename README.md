@@ -1,10 +1,11 @@
-👋 Hey there, I'm Sakshi
-💻 Passionate about Dev, AI, problem-solving, building tools and Entrepreneurship
-🌱 I’m currently learning Web Development and Python
-✨ Always eploring new technologies 🚀
-❤️ To play 🏸 and capture moments! 📸
-^_^ Eager to connect and vibe with like-minded people for collabs, projects, or anything
-📫 How to reach me: mutthasakshi578@gmail.com
+Hey, I'm Sakshi, a 17 year old passionate about Dev, AI, Problem-Solving, Building Stuff & Entrepreneurship.
+Currently in 12th grade pursing PCM+CS.
+
+Additionally, I love to play badminton and capture moments. 
+I like exploring new technologies, enjoy video editing and graphic designing too.
+
+Always eager to learn, innovate, and connect with others who share the same curiosity!
+
 <!--
 **sakshimuttha578/sakshimuttha578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
