@@ -4,4 +4,3 @@ Additionally, I love to play badminton and capture moments.
 I like exploring new technologies, enjoy video editing and graphic designing too.
 
 Always eager to learn, innovate, and connect with others who share the same curiosity!🚀
-
